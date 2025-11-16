@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+google-generativeai
+gradio
+PyMuPDF
+pillow
+python-dotenv
+faiss-cpu
